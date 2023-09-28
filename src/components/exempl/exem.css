@@ -1,0 +1,46 @@
+.mp-title {
+    color: #404149;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 53px;
+
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+
+}
+
+.mp__ex-holder {
+    display: flex;
+}
+
+.eh__el__title {
+    color: #404149;
+
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+
+    margin-top: 35px;
+    padding: 20px 0 15px 0;
+
+    display: inline-block;
+
+    border-top: 6px solid #F7654A;
+}
+
+.eh__el__desc {
+    color: #999999;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+
+    width: 85%;
+
+
+}
+
+.eh__el__img img {
+    width: 90%;
+}

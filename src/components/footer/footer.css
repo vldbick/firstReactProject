@@ -1,0 +1,54 @@
+footer {
+    margin-top: 80px;
+    background-color: #F7654A;
+    height: 181px;
+
+}
+
+.footer-title {
+    color: white;
+    font-weight: 700;
+    letter-spacing: 2%;
+}
+
+.f-c {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ft-b {
+    font-size: 48px;
+    line-height: 71px;
+}
+
+.ft-s {
+    font-size: 24px;
+    line-height: 35.57px;
+}
+
+.footer-but button {
+    border: none;
+    background-color: white;
+
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+
+    width: 175px;
+    height: 49px;
+
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.footer-but button:hover {
+    scale: 1.1;
+}

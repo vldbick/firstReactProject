@@ -1,0 +1,35 @@
+.main-table {
+    height: 300px;
+    position: relative;
+    bottom: 150px;
+    padding: 0 50px;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    text-align: center;
+
+    background-color: #F7F7F7;
+}
+
+.mt-el div:nth-child(1) {
+    color: #F7654A;
+
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 107px;
+}
+
+.mt-el div:nth-child(2) {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 53px;
+}
+
+.mt-el div:nth-child(3) {
+    color: #999999;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+}
